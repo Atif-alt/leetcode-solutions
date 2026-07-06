@@ -29,4 +29,12 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Atif-alt/leetcode-solutions/tree/master/0101-symmetric-tree) |
+## Array
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Atif-alt/leetcode-solutions/tree/master/0605-can-place-flowers) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Atif-alt/leetcode-solutions/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
