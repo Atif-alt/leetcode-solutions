@@ -33,8 +33,26 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Atif-alt/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/Atif-alt/leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Atif-alt/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/Atif-alt/leetcode-solutions/tree/master/0621-task-scheduler) |
+## Hash Table
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Atif-alt/leetcode-solutions/tree/master/0621-task-scheduler) |
+## Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Atif-alt/leetcode-solutions/tree/master/0621-task-scheduler) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Atif-alt/leetcode-solutions/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Atif-alt/leetcode-solutions/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
