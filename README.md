@@ -55,4 +55,20 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Atif-alt/leetcode-solutions/tree/master/0621-task-scheduler) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Atif-alt/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Atif-alt/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Atif-alt/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Atif-alt/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
