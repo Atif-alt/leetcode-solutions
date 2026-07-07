@@ -48,6 +48,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0621-task-scheduler](https://github.com/Atif-alt/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Atif-alt/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Atif-alt/leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [1323-maximum-69-number](https://github.com/Atif-alt/leetcode-solutions/tree/master/1323-maximum-69-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Atif-alt/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1323-maximum-69-number](https://github.com/Atif-alt/leetcode-solutions/tree/master/1323-maximum-69-number) |
 ## Dynamic Programming
 |  |
 | ------- |
