@@ -33,6 +33,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0198-house-robber](https://github.com/Atif-alt/leetcode-solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Atif-alt/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Atif-alt/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -44,6 +45,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Atif-alt/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Atif-alt/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Atif-alt/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -81,6 +83,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0198-house-robber](https://github.com/Atif-alt/leetcode-solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Atif-alt/leetcode-solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Atif-alt/leetcode-solutions/tree/master/0338-counting-bits) |
