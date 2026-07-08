@@ -84,6 +84,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0091-decode-ways](https://github.com/Atif-alt/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Atif-alt/leetcode-solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Atif-alt/leetcode-solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Atif-alt/leetcode-solutions/tree/master/0338-counting-bits) |
@@ -103,6 +104,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Atif-alt/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0392-is-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0767-reorganize-string](https://github.com/Atif-alt/leetcode-solutions/tree/master/0767-reorganize-string) |
 ## Two Pointers
