@@ -94,6 +94,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0416-partition-equal-subset-sum](https://github.com/Atif-alt/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Atif-alt/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Atif-alt/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0583-delete-operation-for-two-strings](https://github.com/Atif-alt/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Atif-alt/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
 |  |
@@ -108,6 +109,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | ------- |
 | [0091-decode-ways](https://github.com/Atif-alt/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0392-is-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/Atif-alt/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0767-reorganize-string](https://github.com/Atif-alt/leetcode-solutions/tree/master/0767-reorganize-string) |
 ## Two Pointers
 |  |
