@@ -82,6 +82,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | ------- |
 | [0509-fibonacci-number](https://github.com/Atif-alt/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1323-maximum-69-number](https://github.com/Atif-alt/leetcode-solutions/tree/master/1323-maximum-69-number) |
+| [1641-count-sorted-vowel-strings](https://github.com/Atif-alt/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0583-delete-operation-for-two-strings](https://github.com/Atif-alt/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Atif-alt/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [1641-count-sorted-vowel-strings](https://github.com/Atif-alt/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -133,4 +135,8 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/Atif-alt/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
