@@ -35,6 +35,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | ------- |
 | [0045-jump-game-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0198-house-robber](https://github.com/Atif-alt/leetcode-solutions/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Atif-alt/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Atif-alt/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Atif-alt/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -86,6 +87,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0045-jump-game-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0091-decode-ways](https://github.com/Atif-alt/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Atif-alt/leetcode-solutions/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Atif-alt/leetcode-solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Atif-alt/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -115,4 +117,8 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Atif-alt/leetcode-solutions/tree/master/0338-counting-bits) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
