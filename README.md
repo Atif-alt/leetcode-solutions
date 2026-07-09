@@ -99,6 +99,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0583-delete-operation-for-two-strings](https://github.com/Atif-alt/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Atif-alt/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1641-count-sorted-vowel-strings](https://github.com/Atif-alt/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
 ## Recursion
 |  |
@@ -115,6 +116,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0392-is-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Atif-alt/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0767-reorganize-string](https://github.com/Atif-alt/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [1143-longest-common-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
