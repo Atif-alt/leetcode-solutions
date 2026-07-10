@@ -143,4 +143,8 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 |  |
 | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/Atif-alt/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Atif-alt/leetcode-solutions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
