@@ -46,6 +46,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0322-coin-change](https://github.com/Atif-alt/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Atif-alt/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Atif-alt/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/Atif-alt/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Atif-alt/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Atif-alt/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -57,6 +58,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | ------- |
 | [0045-jump-game-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Atif-alt/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/Atif-alt/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Atif-alt/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Atif-alt/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Atif-alt/leetcode-solutions/tree/master/0767-reorganize-string) |
@@ -74,6 +76,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | ------- |
 | [0047-permutations-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Atif-alt/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/Atif-alt/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Atif-alt/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Atif-alt/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Atif-alt/leetcode-solutions/tree/master/0846-hand-of-straights) |
@@ -137,6 +140,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Atif-alt/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Bit Manipulation
 |  |
 | ------- |
