@@ -158,6 +158,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Atif-alt/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0047-permutations-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0052-n-queens-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Atif-alt/leetcode-solutions/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
