@@ -52,6 +52,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Atif-alt/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/Atif-alt/leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Atif-alt/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2305-fair-distribution-of-cookies](https://github.com/Atif-alt/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 ## Greedy
 |  |
@@ -63,6 +64,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0621-task-scheduler](https://github.com/Atif-alt/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Atif-alt/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Atif-alt/leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Atif-alt/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/Atif-alt/leetcode-solutions/tree/master/1323-maximum-69-number) |
 ## Hash Table
 |  |
@@ -94,6 +96,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Atif-alt/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Atif-alt/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/Atif-alt/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1641-count-sorted-vowel-strings](https://github.com/Atif-alt/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
 ## Dynamic Programming
