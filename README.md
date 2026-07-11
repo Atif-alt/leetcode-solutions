@@ -39,6 +39,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | ------- |
 | [0045-jump-game-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/Atif-alt/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/Atif-alt/leetcode-solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -135,6 +136,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Atif-alt/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0338-counting-bits](https://github.com/Atif-alt/leetcode-solutions/tree/master/0338-counting-bits) |
 ## Binary Search
@@ -160,5 +162,6 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0047-permutations-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Atif-alt/leetcode-solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Atif-alt/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
