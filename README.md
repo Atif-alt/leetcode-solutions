@@ -51,6 +51,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Atif-alt/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/Atif-alt/leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [2305-fair-distribution-of-cookies](https://github.com/Atif-alt/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 ## Greedy
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0746-min-cost-climbing-stairs](https://github.com/Atif-alt/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1641-count-sorted-vowel-strings](https://github.com/Atif-alt/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
+| [2305-fair-distribution-of-cookies](https://github.com/Atif-alt/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 ## Recursion
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0078-subsets](https://github.com/Atif-alt/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0338-counting-bits](https://github.com/Atif-alt/leetcode-solutions/tree/master/0338-counting-bits) |
+| [2305-fair-distribution-of-cookies](https://github.com/Atif-alt/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 ## Binary Search
 |  |
 | ------- |
@@ -164,4 +167,9 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0077-combinations](https://github.com/Atif-alt/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Atif-alt/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [2305-fair-distribution-of-cookies](https://github.com/Atif-alt/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/Atif-alt/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
