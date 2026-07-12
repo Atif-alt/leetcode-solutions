@@ -48,6 +48,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0416-partition-equal-subset-sum](https://github.com/Atif-alt/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Atif-alt/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Atif-alt/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0473-matchsticks-to-square](https://github.com/Atif-alt/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0605-can-place-flowers](https://github.com/Atif-alt/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Atif-alt/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -116,6 +117,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0392-is-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Atif-alt/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Atif-alt/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/Atif-alt/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0509-fibonacci-number](https://github.com/Atif-alt/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/Atif-alt/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -155,6 +157,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0078-subsets](https://github.com/Atif-alt/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0338-counting-bits](https://github.com/Atif-alt/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0473-matchsticks-to-square](https://github.com/Atif-alt/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [2305-fair-distribution-of-cookies](https://github.com/Atif-alt/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 ## Binary Search
 |  |
@@ -181,10 +184,12 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0077-combinations](https://github.com/Atif-alt/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Atif-alt/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0473-matchsticks-to-square](https://github.com/Atif-alt/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [2305-fair-distribution-of-cookies](https://github.com/Atif-alt/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/Atif-alt/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [2305-fair-distribution-of-cookies](https://github.com/Atif-alt/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 ## Trie
 |  |
