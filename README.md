@@ -55,6 +55,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0746-min-cost-climbing-stairs](https://github.com/Atif-alt/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/Atif-alt/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Atif-alt/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Atif-alt/leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [2305-fair-distribution-of-cookies](https://github.com/Atif-alt/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 ## Greedy
 |  |
@@ -68,6 +69,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0846-hand-of-straights](https://github.com/Atif-alt/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Atif-alt/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/Atif-alt/leetcode-solutions/tree/master/1323-maximum-69-number) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Atif-alt/leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0621-task-scheduler](https://github.com/Atif-alt/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Atif-alt/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Atif-alt/leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Atif-alt/leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
