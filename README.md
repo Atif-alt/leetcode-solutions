@@ -76,6 +76,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Atif-alt/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/Atif-alt/leetcode-solutions/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/Atif-alt/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/Atif-alt/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Atif-alt/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Atif-alt/leetcode-solutions/tree/master/0846-hand-of-straights) |
@@ -83,6 +84,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0242-valid-anagram](https://github.com/Atif-alt/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/Atif-alt/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Atif-alt/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Atif-alt/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -146,6 +148,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0115-distinct-subsequences](https://github.com/Atif-alt/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Atif-alt/leetcode-solutions/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/Atif-alt/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Atif-alt/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0767-reorganize-string](https://github.com/Atif-alt/leetcode-solutions/tree/master/0767-reorganize-string) |
