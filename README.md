@@ -42,6 +42,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0047-permutations-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Atif-alt/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Atif-alt/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Atif-alt/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Atif-alt/leetcode-solutions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Atif-alt/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -117,6 +118,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0045-jump-game-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0091-decode-ways](https://github.com/Atif-alt/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Atif-alt/leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Atif-alt/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Atif-alt/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Atif-alt/leetcode-solutions/tree/master/0198-house-robber) |
