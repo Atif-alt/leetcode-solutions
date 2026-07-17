@@ -154,6 +154,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0132-palindrome-partitioning-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Atif-alt/leetcode-solutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Atif-alt/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Atif-alt/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Atif-alt/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0767-reorganize-string](https://github.com/Atif-alt/leetcode-solutions/tree/master/0767-reorganize-string) |
@@ -161,6 +162,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Atif-alt/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Atif-alt/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Bit Manipulation
