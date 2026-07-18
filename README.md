@@ -6,6 +6,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Atif-alt/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Atif-alt/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
@@ -39,6 +40,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atif-alt/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Atif-alt/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Atif-alt/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Atif-alt/leetcode-solutions/tree/master/0078-subsets) |
@@ -116,6 +118,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Atif-alt/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Atif-alt/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0091-decode-ways](https://github.com/Atif-alt/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Atif-alt/leetcode-solutions/tree/master/0115-distinct-subsequences) |
@@ -164,6 +167,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atif-alt/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Atif-alt/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/Atif-alt/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Atif-alt/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Atif-alt/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -212,4 +216,8 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Atif-alt/leetcode-solutions/tree/master/0139-word-break) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Atif-alt/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
