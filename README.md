@@ -14,6 +14,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0094-binary-tree-inorder-traversal](https://github.com/Atif-alt/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Atif-alt/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Atif-alt/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Atif-alt/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Atif-alt/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -21,6 +22,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0094-binary-tree-inorder-traversal](https://github.com/Atif-alt/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Atif-alt/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Atif-alt/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Atif-alt/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Atif-alt/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -28,6 +30,7 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 | [0094-binary-tree-inorder-traversal](https://github.com/Atif-alt/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Atif-alt/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Atif-alt/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Atif-alt/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Atif-alt/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -220,4 +223,8 @@ A collection of Java solutions for Data Structures and Algorithms problems, incl
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Atif-alt/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Atif-alt/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
